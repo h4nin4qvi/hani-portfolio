@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hani Naqvi | Motion Designer</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #111;
+      color: #eee;
+    }
+    header, footer {
+      padding: 2rem;
+      text-align: center;
+      background-color: #1a1a1a;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #ccc;
+      text-decoration: none;
+    }
+    section {
+      padding: 4rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .hero {
+      text-align: center;
+      background-color: #222;
+      padding: 5rem 2rem;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      color: #fff;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      color: #aaa;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background: #444;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .portfolio-item {
+      margin-bottom: 2rem;
+    }
+    .portfolio-item video, .portfolio-item img {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+    .contact-info a {
+      color: #aaa;
+      text-decoration: none;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>Hani Naqvi</h2>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Crafting Visual Stories</h1>
+    <p>Video Editor | Motion Designer | Filmmaker</p>
+    <a class="btn" href="#portfolio">Watch Demo Reel</a>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi, I'm Hani Naqvi. I’m a video editor and motion designer who creates dynamic motion graphic ads, short films, and creative video content. I also shoot and direct visual pieces that tell powerful stories. Let’s bring your vision to life.</p>
+  </section>
+
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Motion Graphics & Ads</li>
+      <li>Video Editing (YouTube, Reels, Documentaries)</li>
+      <li>Filmmaking & Shoots</li>
+      <li>Logo & Thumbnail Design</li>
+      <li>Video Editing Help & Support</li>
+    </ul>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <div class="portfolio-item">
+      <p><strong>University Work</strong></p>
+      <p>Upload your videos here or embed from YouTube.</p>
+    </div>
+    <div class="portfolio-item">
+      <p><strong>Freelance Projects</strong></p>
+      <p>Highlight any external projects you've done.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact-info">
+      <a href="mailto:haninaqvi1@gmail.com">haninaqvi1@gmail.com</a>
+      <a href="https://www.instagram.com/shn.vsls" target="_blank">Instagram: @shn.vsls</a>
+      <a href="https://www.youtube.com/@shn.vsls" target="_blank">YouTube: shn.vsls</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Hani Naqvi</p>
+  </footer>
+</body>
+</html>
